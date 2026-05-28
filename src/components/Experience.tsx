@@ -5,6 +5,18 @@ import { motion, useScroll, useSpring } from "framer-motion";
 
 const EXPERIENCES = [
   {
+    period: "2020",
+    title: "Magang IT Support",
+    org: "CV. ADHISAKTI COMPUTER",
+    desc: "Melakukan pemeliharaan dan perbaikan perangkat keras (hardware), perangkat lunak (software), printer, serta instalasi dan troubleshooting jaringan komputer."
+  },
+  {
+    period: "2021",
+    title: "Magang Teknisi Jaringan",
+    org: "PT Karya Internet Indonesia",
+    desc: "Melakukan instalasi serta pemeliharaan infrastruktur jaringan wifi RT/RW Net untuk memastikan konektivitas yang stabil dan efisien."
+  },
+  {
     period: "2022 - 2026",
     title: "S1 Informatika",
     org: "Universitas Teknologi Yogyakarta",
