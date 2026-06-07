@@ -33,10 +33,10 @@ const PROJECTS = [
     tech: ["Laravel", "REST API", "QRIS Integration", "MySQL"],
     icon: CreditCard,
     github: "#",
-    demo: "#",
+    demo: "https://tixluaa.com",
     badge: "Digital Payment Project",
     image: "/projects/e-ticketing.png",
-    status: "Work in Progress"
+    status: "Completed"
   },
   {
     title: "Portofolio Digital",
